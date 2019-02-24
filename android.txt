@@ -1,0 +1,4 @@
+
+title=TakePicture
+author=777
+orientation=portrait
